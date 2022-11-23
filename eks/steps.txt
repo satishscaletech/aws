@@ -2,6 +2,7 @@ Step 1. sh cluster-configuration.sh
 
 Step 2. sh cluster-communication.sh
 
+Step 3. sh managed-node-config.sh
 
 
 
