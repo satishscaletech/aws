@@ -4,7 +4,10 @@ Step 2. sh cluster-communication.sh
 
 Step 3. sh managed-node-config.sh
 
+Step 4. sh iam-oidc-configure.sh
 
+Step 5. sh lbc-configure.sh
 
+Step 6. sh application-deploy.sh
 ==
 if certificate issue then recreate node group with sufficient memory

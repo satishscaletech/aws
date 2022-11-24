@@ -20,7 +20,7 @@ spec:
         app.kubernetes.io/name: app-2048
     spec:
       containers:
-      - image: public.ecr.aws/l6m2t8p7/docker-2048:latest
+      - image: 626967874222276.dkr.ecr.us-east-1.amazonaws.com/backend-staging:latest
         imagePullPolicy: Always
         name: app-2048
         ports:
